@@ -235,7 +235,7 @@ h1 {
             <ul class="navbar-nav">
               <li class="active"><a href="/">Home</a></li>
               <li class="navbar-dropdown">
-                <a href="/services" class="dropdown-toggler" data-dropdown="my-dropdown-id">
+                <a href="#" class="dropdown-toggler" data-dropdown="my-dropdown-id">
                   Services <i class="fa fa-angle-down"></i>
                 </a>
               <li><a href="/about">About</a></li>
@@ -244,10 +244,10 @@ h1 {
         </div>
       </nav>
 
+
       <main>
-        <h1>Home</h1>
+        <h1>Services</h1>
       </main>
-    
     
 </body>
 </html>
